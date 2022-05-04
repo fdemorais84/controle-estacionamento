@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\bin\Debug\netstandard2.0\ControleEstacionamento.Domain.deps.json
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\bin\Debug\netstandard2.0\ControleEstacionamento.Domain.dll
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\bin\Debug\netstandard2.0\ControleEstacionamento.Domain.pdb
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.dll
+C:\Users\User\Desktop\Teste-Acesso\ControleEstacionamento\ControleEstacionamentoAPI\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.pdb
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\bin\Debug\netstandard2.0\ControleEstacionamento.Domain.deps.json
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\bin\Debug\netstandard2.0\ControleEstacionamento.Domain.dll
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\bin\Debug\netstandard2.0\ControleEstacionamento.Domain.pdb
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.dll
+C:\Users\User\Desktop\ControleEstacionamento\ControleEstacionamentoAPI\src\ControleEstacionamento.Domain\obj\Debug\netstandard2.0\ControleEstacionamento.Domain.pdb
