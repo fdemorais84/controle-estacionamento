@@ -34,7 +34,7 @@ namespace ControleEstacionamento.Api.Controllers
             }
         }
 
-        [HttpPost("desativar-parametros")]
+        [HttpPut("desativar-parametros")]
         public async Task<IActionResult> DesativarParametro()
         {
             if (await _parametrizacaoAppService.VerificarParametrosAtivo() == true)

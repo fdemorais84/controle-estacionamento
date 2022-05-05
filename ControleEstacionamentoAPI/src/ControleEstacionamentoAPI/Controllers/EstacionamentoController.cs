@@ -46,7 +46,7 @@ namespace ControleEstacionamento.Api.Controllers
             }
         }
 
-        [HttpPost("saida")]
+        [HttpPut("saida")]
         public async Task<IActionResult> Saida(TicketSaidaViewModel dados)
         {
             #region Formatar valores de entrada
